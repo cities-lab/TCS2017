@@ -1,0 +1,106 @@
+---
+title: "TCS 2017 Data Workshop"
+subtitle: "Highlights/Pointers of Recent NITC Research Projects on Data"
+author: "Liming Wang"
+date: "Portland State University"
+output:
+  xaringan::moon_reader:
+    seal: yes
+    nature:
+      highlightStyle: github
+---
+
+<style>
+  @page {
+    size: 1210px 681px;
+    margin: 0;
+  }
+  
+  @media print {
+    .remark-slide-scaler {
+      width: 100% !important;
+      height: 100% !important;
+      transform: scale(1) !important;
+      top: 0 !important;
+      left: 0 !important;
+    }
+  }
+</style>
+
+# NITC Theme
+
+- Increasing access to opportunities
+- Improving multi-modal planning and shared use of infrastructure
+- Advancing innovation and smart cities
+- **Developing data, models, and tools**
+
+---
+
+# Project List
+
+- Bike-Ped Portal
+- All-in-one Spatial Activity Processer (ASAP)
+- Vehicle Wheel Motion (VWM) and Automatic Vehicle Location (AVL) data
+- Data integration for integrated models
+- Ongoing projects
+
+---
+
+# Bike-Ped Portal
+
+The national archive for bicycle and pedestrian count data. Check bicycle and pedestrian traffic volumes around the U.S. and add your own count data. Over 4 million count records from five states
+
+- Researchers: Krista Nordback, Kristin Tufte
+- **URLs**: 
+    - http://bp.its.pdx.edu/
+    - http://trec.pdx.edu/research/project/817
+- Webinar (forthcoming on 12/19):
+    - http://nitc.trec.pdx.edu/events/professional-development/webinar-bike-ped-portal
+
+---
+
+# All-in-one Spatial Activity Processer (ASAP)
+
+Simplify and standardize GPS and related spatial activity data processing; Detects trips, travel modes and route activities from GPS traces and accelerometer data
+
+- Researchers: Joe Broach, Jennifer Dill
+- **URL**: 
+    - Demo: http://web.pdx.edu/~jbroach/asap_demo/
+    - [Project page](http://trec.pdx.edu/research/project/984/Adding_Value_to_GPS_Travel_Data_with_New_Open-Source_Processing_Software_for_Everyone)
+
+---
+
+# VWM and Bus AVL data 
+Uses Vehicle wheel motion (VWM) detection data and TriMet’s automatic vehicle location (AVL) data to congestion quantification and performance measures for arterials at the regional scale
+
+- Researchers: Miguel Figliozzi, Robert Bertini
+- [reports](http://nitc.trec.pdx.edu/research/project/770/Exploiting_New_Data_Sources_to_Quantify_Arterial_Congestion_and_Performance_Measures_at_a_Regional_Scale_)
+
+---
+
+# Smart Data: Data Integration for Integrated Models
+
+Explores methods to facilitate bringing data from multiple sources for integrated transportation and land use models
+
+- Researcher: Liming Wang
+- **URLs**: 
+    - [Report](http://nitc.trec.pdx.edu/research/project/581/Continuous_Data_Integration_for_Land_Use_and_Transportation_Planning_and_Modeling)
+
+---
+
+# Ongoing projects
+
+- [LRT/BRT/SCT/CRT Station Area Databases, ](http://nitc.trec.pdx.edu/research/project/1103/Updating_and_Expanding_LRT/BRT/SCT/CRT_Data_and_Analysis)
+    
+    Arthur Nelson
+    A LRT/BRT/SCT/CRT station area database for 12 light rail transit (LRT) systems, 9 bus rapid transit (BRT) systems, 4 streetcar transit (SCT), and 5 commuter rail transit (CRT) systems that is being updated to 2015.
+
+- [Bike-Ped Portal Phase II](http://trec.pdx.edu/research/project/1068/Bike-Ped_Portal_Phase_II)
+
+    Hau Hagedorn, Kristin Tufte, Nathan McNeil
+    Improve its usability for both data providers and data users
+
+- [Bicycle and Pedestrian Traffic Monitoring Data Quality,  ](http://nitc.trec.pdx.edu/research/project/1026/Bicycle_and_Pedestrian_Traffic_Monitoring_Data_Quality)
+
+    Nathan McNeil and Kristin Tufte
+    Creates a practical method to quality check bicycle and pedestrian traffic counts.
