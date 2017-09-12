@@ -27,16 +27,7 @@ output:
   }
 </style>
 
-# NITC Theme
-
-- Increasing access to opportunities
-- Improving multi-modal planning and shared use of infrastructure
-- Advancing innovation and smart cities
-- **Developing data, models, and tools**
-
----
-
-# Project List
+# Projects
 
 - Bike-Ped Portal
 - All-in-one Spatial Activity Processer (ASAP)
@@ -48,7 +39,7 @@ output:
 
 # Bike-Ped Portal
 
-The national archive for bicycle and pedestrian count data. Check bicycle and pedestrian traffic volumes around the U.S. and add your own count data. Over 4 million count records from five states
+A national archive for bicycle and pedestrian count data. Check bicycle and pedestrian traffic volumes around the U.S. and add your own count data. Over 4 million count records from five states
 
 - Researchers: Krista Nordback, Kristin Tufte
 - **URLs**: 
@@ -66,7 +57,7 @@ The national archive for bicycle and pedestrian count data. Check bicycle and pe
 
 # All-in-one Spatial Activity Processer (ASAP)
 
-Simplify and standardize GPS and related spatial activity data processing; Detects trips, travel modes and route activities from GPS traces and accelerometer data
+Simplifies and standardizes GPS and related spatial activity data processing; Detects trips, travel modes and route activities from GPS traces and accelerometer data
 
 - Researchers: Joe Broach, Jennifer Dill
 - **URL**: 
@@ -76,7 +67,7 @@ Simplify and standardize GPS and related spatial activity data processing; Detec
 ---
 
 # VWM and Bus AVL data 
-Uses Vehicle wheel motion (VWM) detection data and TriMet’s automatic vehicle location (AVL) data to congestion quantification and performance measures for arterials at the regional scale
+Uses Vehicle wheel motion (VWM) detection data and TriMet’s automatic vehicle location (AVL) data to quantifiy congestion and produce performance measures for arterials at the regional scale
 
 - Researchers: Miguel Figliozzi, Robert Bertini
 - [Report](http://nitc.trec.pdx.edu/research/project/770/Exploiting_New_Data_Sources_to_Quantify_Arterial_Congestion_and_Performance_Measures_at_a_Regional_Scale_)
@@ -85,7 +76,7 @@ Uses Vehicle wheel motion (VWM) detection data and TriMet’s automatic vehicle 
 
 # Data Integration for Integrated Models
 
-Explores methods to facilitate bringing data from multiple sources for integrated transportation and land use models
+Explores methods to facilitate data integration/fusion from multiple sources for integrated transportation and land use models
 
 - Researcher: Liming Wang
 - **URLs**: 
